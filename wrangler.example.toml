@@ -1,0 +1,5 @@
+name = "canihazip"
+type = "javascript"
+account_id = ""
+api_token = ""
+workers_dev = true
